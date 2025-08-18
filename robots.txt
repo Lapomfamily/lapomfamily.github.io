@@ -1,20 +1,30 @@
 User-agent: *
 
-Disallow: /tags/bar/
+Disallow: /tags/bateau/
 
-Disallow: /tags/cascade/
+Disallow: /tags/ile/
 
-Disallow: /tags/grotte/
+Disallow: /posts/premiere_journee_a_moorea/
 
 Disallow: /
 
-Disallow: /tags/parc/
+Disallow: /tags/montagne/
+
+Disallow: /tags/moorea/
 
 Disallow: /tags/plage/
 
 Disallow: /posts/
 
 Disallow: /tags/
+
+Disallow: /tags/bar/
+
+Disallow: /tags/cascade/
+
+Disallow: /tags/grotte/
+
+Disallow: /tags/parc/
 
 Disallow: /posts/tour_de_tahiti/
 
