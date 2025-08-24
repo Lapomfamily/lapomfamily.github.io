@@ -1,22 +1,26 @@
 User-agent: *
 
+Disallow: /tags/hydrographie/
+
+Disallow: /
+
+Disallow: /tags/moorea/
+
+Disallow: /posts/
+
+Disallow: /posts/presentation_d-une_mission_hydrographique/
+
+Disallow: /tags/
+
 Disallow: /tags/bateau/
 
 Disallow: /tags/ile/
 
-Disallow: /posts/premiere_journee_a_moorea/
-
-Disallow: /
+Disallow: /posts/journee_a_moorea/
 
 Disallow: /tags/montagne/
 
-Disallow: /tags/moorea/
-
 Disallow: /tags/plage/
-
-Disallow: /posts/
-
-Disallow: /tags/
 
 Disallow: /tags/bar/
 
@@ -26,13 +30,13 @@ Disallow: /tags/grotte/
 
 Disallow: /tags/parc/
 
-Disallow: /posts/tour_de_tahiti/
+Disallow: /posts/visite_de_l-ile_de_tahiti/
 
 Disallow: /tags/college/
 
 Disallow: /tags/ecole/
 
-Disallow: /posts/rentree_scolaire/
+Disallow: /posts/rentree_des_classes/
 
 Disallow: /tags/maison/
 
