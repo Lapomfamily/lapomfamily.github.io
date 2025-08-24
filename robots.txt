@@ -1,26 +1,22 @@
 User-agent: *
 
-Disallow: /tags/hydrographie/
-
-Disallow: /
-
-Disallow: /tags/moorea/
-
-Disallow: /posts/
-
-Disallow: /posts/affectation_tahiti/
-
-Disallow: /tags/
-
 Disallow: /tags/bateau/
 
 Disallow: /tags/ile/
 
 Disallow: /posts/premiere_journee_a_moorea/
 
+Disallow: /
+
 Disallow: /tags/montagne/
 
+Disallow: /tags/moorea/
+
 Disallow: /tags/plage/
+
+Disallow: /posts/
+
+Disallow: /tags/
 
 Disallow: /tags/bar/
 
