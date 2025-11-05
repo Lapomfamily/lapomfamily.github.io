@@ -1,16 +1,20 @@
 User-agent: *
 
-Disallow: /tags/hydrographie/
-
 Disallow: /
-
-Disallow: /tags/moorea/
 
 Disallow: /posts/
 
-Disallow: /posts/presentation_d-une_mission_hydrographique/
+Disallow: /tags/sport/
+
+Disallow: /posts/sport_a_tahiti/
 
 Disallow: /tags/
+
+Disallow: /tags/hydrographie/
+
+Disallow: /tags/moorea/
+
+Disallow: /posts/presentation_d-une_mission_hydrographique/
 
 Disallow: /tags/bateau/
 
