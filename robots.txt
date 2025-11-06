@@ -1,14 +1,22 @@
 User-agent: *
 
+Disallow: /tags/anniversaire/
+
 Disallow: /
 
+Disallow: /tags/musique/
+
 Disallow: /posts/
+
+Disallow: /posts/quelques_sorties_en_septembre-octobre_2025/
+
+Disallow: /tags/randonnees/
+
+Disallow: /tags/
 
 Disallow: /tags/sport/
 
 Disallow: /posts/sport_a_tahiti/
-
-Disallow: /tags/
 
 Disallow: /tags/hydrographie/
 
