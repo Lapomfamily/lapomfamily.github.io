@@ -1,5 +1,41 @@
 User-agent: *
 
+Disallow: /
+
+Disallow: /tags/plage/
+
+Disallow: /posts/
+
+Disallow: /posts/presqu-ile_tahiti-iti/
+
+Disallow: /tags/randonnees/
+
+Disallow: /tags/
+
+Disallow: /posts/festival_tikifest_2026/
+
+Disallow: /tags/musique/
+
+Disallow: /posts/accrobranche_au_rainbow_park/
+
+Disallow: /tags/sport/
+
+Disallow: /posts/divers_debut_2026/
+
+Disallow: /tags/ile/
+
+Disallow: /tags/montagne/
+
+Disallow: /tags/moorea/
+
+Disallow: /posts/weekend_a_moorea/
+
+Disallow: /tags/anniversaire/
+
+Disallow: /posts/anniversaire_de_louis_et_premier_noel_tahiti/
+
+Disallow: /tags/noel/
+
 Disallow: /tags/avion/
 
 Disallow: /tags/bateau/
@@ -8,39 +44,17 @@ Disallow: /tags/bora-bora/
 
 Disallow: /posts/bora-maupiti_2025/
 
-Disallow: /tags/ile/
-
-Disallow: /
-
 Disallow: /tags/maupiti/
 
-Disallow: /tags/plage/
-
-Disallow: /posts/
-
-Disallow: /tags/
-
-Disallow: /tags/anniversaire/
-
-Disallow: /tags/musique/
-
 Disallow: /posts/quelques_sorties_en_septembre-octobre_2025/
-
-Disallow: /tags/randonnees/
-
-Disallow: /tags/sport/
 
 Disallow: /posts/sport_a_tahiti/
 
 Disallow: /tags/hydrographie/
 
-Disallow: /tags/moorea/
-
 Disallow: /posts/presentation_d-une_mission_hydrographique/
 
 Disallow: /posts/journee_a_moorea/
-
-Disallow: /tags/montagne/
 
 Disallow: /tags/bar/
 
