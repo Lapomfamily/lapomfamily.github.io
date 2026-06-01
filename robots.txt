@@ -1,16 +1,24 @@
 User-agent: *
 
+Disallow: /tags/hydrographie/
+
+Disallow: /tags/ile/
+
 Disallow: /
 
-Disallow: /tags/plage/
+Disallow: /posts/mission_rangiroa/
 
 Disallow: /posts/
+
+Disallow: /tags/rangiroa/
+
+Disallow: /tags/
+
+Disallow: /tags/plage/
 
 Disallow: /posts/presqu-ile_tahiti-iti/
 
 Disallow: /tags/randonnees/
-
-Disallow: /tags/
 
 Disallow: /posts/festival_tikifest_2026/
 
@@ -21,8 +29,6 @@ Disallow: /posts/accrobranche_au_rainbow_park/
 Disallow: /tags/sport/
 
 Disallow: /posts/divers_debut_2026/
-
-Disallow: /tags/ile/
 
 Disallow: /tags/montagne/
 
@@ -49,8 +55,6 @@ Disallow: /tags/maupiti/
 Disallow: /posts/quelques_sorties_en_septembre-octobre_2025/
 
 Disallow: /posts/sport_a_tahiti/
-
-Disallow: /tags/hydrographie/
 
 Disallow: /posts/presentation_d-une_mission_hydrographique/
 
