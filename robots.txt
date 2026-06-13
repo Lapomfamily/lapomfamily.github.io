@@ -1,18 +1,22 @@
 User-agent: *
 
+Disallow: /
+
+Disallow: /posts/
+
+Disallow: /posts/00_publication_bidon/
+
+Disallow: /tags/sport/
+
+Disallow: /tags/
+
 Disallow: /tags/hydrographie/
 
 Disallow: /tags/ile/
 
-Disallow: /
-
 Disallow: /posts/mission_rangiroa/
 
-Disallow: /posts/
-
 Disallow: /tags/rangiroa/
-
-Disallow: /tags/
 
 Disallow: /tags/plage/
 
@@ -25,8 +29,6 @@ Disallow: /posts/festival_tikifest_2026/
 Disallow: /tags/musique/
 
 Disallow: /posts/accrobranche_au_rainbow_park/
-
-Disallow: /tags/sport/
 
 Disallow: /posts/divers_debut_2026/
 
