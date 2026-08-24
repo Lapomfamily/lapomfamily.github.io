@@ -1,32 +1,38 @@
 User-agent: *
 
+Disallow: /tags/bateau/
+
+Disallow: /tags/ile/
+
+Disallow: /
+
+Disallow: /tags/plage/
+
+Disallow: /posts/
+
+Disallow: /tags/raiatea/
+
+Disallow: /tags/randonnees/
+
+Disallow: /tags/
+
+Disallow: /posts/raiatea_2026/
+
 Disallow: /tags/anniversaire/
 
 Disallow: /posts/juillet_2026/
 
 Disallow: /tags/ecole/
 
-Disallow: /
-
-Disallow: /posts/
-
-Disallow: /tags/
-
 Disallow: /posts/anniversaire_juin_2026/
 
 Disallow: /tags/hydrographie/
-
-Disallow: /tags/ile/
 
 Disallow: /posts/mission_rangiroa/
 
 Disallow: /tags/rangiroa/
 
-Disallow: /tags/plage/
-
 Disallow: /posts/presqu-ile_tahiti-iti/
-
-Disallow: /tags/randonnees/
 
 Disallow: /posts/festival_tikifest_2026/
 
@@ -49,8 +55,6 @@ Disallow: /posts/anniversaire_de_louis_et_premier_noel_tahiti/
 Disallow: /tags/noel/
 
 Disallow: /tags/avion/
-
-Disallow: /tags/bateau/
 
 Disallow: /tags/bora-bora/
 
